@@ -7,6 +7,7 @@
 - In the second and third milestones, the aim is to build models and using this model to predict the outcomes on
 cases_test.csv dataset. 
 - The performance of these models will be evaluated based on the predictions on the test set, and hence it is important to treat cases_test.csv and cases_train.csv similarly.
+- To execute all 3 milestones may take **several days**.
 - The professor is Dr. Martin Ester.
 - The group members are Zeyong Jin (zeyongj@sfu.ca), Yuqing Wu (ywa292@sfu.ca) and Zixi Bai (zixib@sfu.ca).
 
@@ -19,7 +20,26 @@ cases_test.csv dataset.
     Milestone 2
     
     Milestone 3
-    
+
+## Libraries
+
+- numpy
+- pandas
+- os
+- sklearn
+- warnings
+- seaborn
+- datetime
+- lightgbm
+- math
+- pickle
+
+## References
+
+- https://blog.csdn.net/qq_35679701/article/details/107239487
+- https://blog.csdn.net/weixin_44132035/article/details/102807785
+- https://blog.csdn.net/swordtraveller/article/details/92786837
+- https://blog.csdn.net/wlx19970505/article/details/80301193
 
 ## License
 

@@ -3,7 +3,7 @@
 ## Introudction
 - SFU CMPT 459: Data Mining, Group Project: Prediction of The Outcome of A COVID-19 Patient.
 - In the second and third milestones, the aim is to build models and using this model to predict the outcomes on cases_test.csv dataset.
-- Running main.py may take long time.
+- Running main.py may take **several days**.
 
 
 ## Libraries
