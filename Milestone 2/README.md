@@ -4,8 +4,6 @@
 - SFU CMPT 459: Data Mining, Group Project: Prediction of The Outcome of A COVID-19 Patient.
 - In the second and third milestones, the aim is to build models and using this model to predict the outcomes on cases_test.csv dataset.
 - Running main.py may take several minutes.
-- Ensure that main.py and eda.ipynb are running under the src folder otherwise the results and plots folder cannot maintain the correct structure
-- When running, the data folder should have the original files.
 
 ## Libraries
 
