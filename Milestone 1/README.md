@@ -5,7 +5,7 @@
 - In the first milestone of the course project, the aim is to do the data preprocessing as specified further in the document.
 - Running main.py may take several minutes.
 - Ensure that main.py and eda.ipynb are running under the src folder otherwise the results and plots folder cannot maintain the correct structure
-- When running, make sure the data folder has the original files.
+- When running, the data folder should have the original files.
 
 ## Libraries
 
